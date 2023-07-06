@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @NiettoVale
-- 👀 I am interested in cybersecurity and programming
-- 🌱 I am currently learning full stack web development
+- 👋 Hola, soy @NiettoVale
+- 👀 Estoy interesado en la ciberseguridad y la programación
+- 🌱 Actualmente estoy aprendiendo desarrollo web full stack en Henry
 
 <!---
 NiettoVale/NiettoVale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
