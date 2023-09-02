@@ -17,7 +17,7 @@
 ## Sobre mí
 
 - 💡 Me encanta aprender nuevas tecnologías.
-- 🛡️ Tengo una pasión por la ciberseguridad y por el desarrollo backend.
+- 🛡️ Tengo interés por la ciberseguridad y el desarrollo backend.
 - 🌐 Puedes encontrarme en [Valentín Francisco](https://www.linkedin.com/in/valentin-francisco-diaz-nieto-6b3892263/) para conectarte conmigo.
 - 🎵 En mis tiempos libres me gusta eschuchar música y ver series
 
@@ -27,7 +27,8 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 
 - [GameVerse: Explora, crea y conquista.](https://github.com/NiettoVale/Proyecto-Videogame): Este proyecto fue desarrollado durante mi etapa en el bootcamp de Soy Henry. GameVerse es una aplicación de una sola página (SPA) que te permite explorar una variedad de videojuegos, crear tus propios títulos y realizar acciones como edición y eliminación. Además, proporciona detalles exhaustivos sobre cada juego en particular, brindando una experiencia completa de juego.
 
-- [Rick y Morty](https://github.com/NiettoVale/Proyecto-Rick-and-Morty): Durante mi participación en el bootcamp de Soy Henry, desarrolle esta aplicación web. Rick y Morty es una plataforma que hace uso de la API oficial de la serie para ofrecer información detallada sobre los personajes que aparecen en la misma. Los usuarios tienen la capacidad de buscar personajes, explorar sus detalles, aplicar filtros de búsqueda y guardar sus personajes favoritos para una experiencia personalizada..
+- [Rick y Morty](https://github.com/NiettoVale/Proyecto-Rick-and-Morty): Durante mi participación en el bootcamp de Soy Henry, desarrolle esta aplicación web.
+Rick y Morty es una plataforma que hace uso de la API oficial de la serie para ofrecer información detallada sobre los personajes que aparecen en la misma. Los usuarios tienen la capacidad de buscar personajes, explorar sus detalles, aplicar filtros de búsqueda y guardar sus personajes favoritos para una experiencia personalizada..
 
 ## Tecnologías que actualmente manejo:
 
