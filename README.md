@@ -3,7 +3,7 @@
 [![GitHub Logo](https://img.shields.io/github/followers/NiettoVale?label=Sígueme%20en%20GitHub&style=social)](https://github.com/NiettoVale)
 
 <p align="justify">
-  ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la programación en el lado backend y la ciberseguridad. Siempre busco superarme y aprender más en el emocionante mundo de la tecnología.
+  ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la programación en el lado backend, frontend y la ciberseguridad. Siempre busco superarme y aprender más en el emocionante mundo de la tecnología.
 </p>
 
 <p align="justify">
